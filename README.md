@@ -93,7 +93,7 @@ This is beneficial because:
 - Easy to explain to non-technical users
 - Useful during requirement reviews
 
-![Use Case Diagram](./images/alx-booking-uc.png.png)
+![Use Case Diagram](alx-booking-uc.png)
 
 ## 🎯 Acceptance Criteria
 
