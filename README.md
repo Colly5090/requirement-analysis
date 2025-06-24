@@ -114,4 +114,5 @@ This is beneficial because:
 - Customer must enter payment info
 - Payment must be processed successfully
 - Confirmation email must be sent after successful booking
-  ✅ If all these conditions are met, the feature is considered complete and accepted.
+
+✅ If all these conditions are met, the feature is considered complete and accepted.
