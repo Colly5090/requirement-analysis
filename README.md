@@ -106,6 +106,7 @@ This is beneficial because:
 #### 💡 Example: Acceptance Criteria for "Checkout" Feature in Booking System
 
 **Feature:** Guest can complete a booking checkout
+
 **Acceptance Criteria:**
 
 - Customer must be logged in
